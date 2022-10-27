@@ -6,6 +6,8 @@ It uses 3-Tier architecture:
 1. DAO layer - implements database access.
 2. Service layer - implements all business logic.
 3. Controllers layer - responsible for breakpoints, that allows user to use app.
+
+
 All functionality and technologies are described below.
 
 ## Functionality list:
